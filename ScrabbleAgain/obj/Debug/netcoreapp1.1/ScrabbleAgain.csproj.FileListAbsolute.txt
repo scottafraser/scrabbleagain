@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/bin/Debug/netcoreapp1.1/ScrabbleAgain.deps.json
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/bin/Debug/netcoreapp1.1/ScrabbleAgain.runtimeconfig.json
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/bin/Debug/netcoreapp1.1/ScrabbleAgain.runtimeconfig.dev.json
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/obj/Debug/netcoreapp1.1/ScrabbleAgain.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/obj/Debug/netcoreapp1.1/ScrabbleAgain.AssemblyInfo.cs
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/bin/Debug/netcoreapp1.1/ScrabbleAgain.dll
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/bin/Debug/netcoreapp1.1/ScrabbleAgain.pdb
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/obj/Debug/netcoreapp1.1/ScrabbleAgain.dll
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/obj/Debug/netcoreapp1.1/ScrabbleAgain.pdb

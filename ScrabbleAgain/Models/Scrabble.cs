@@ -6,15 +6,26 @@ namespace Scrabble
 
     public class Points
     {
-        private char _charList;
+        private string _input;
+        private char[] _charList;
         private int _intList;
 
-        public void SetCharList(char a)
+        public void SetInput(string word)
+        {
+            _input = word;
+        }
+
+        public string GetInput()
+        {
+            return _input;
+        }
+
+        public void SetCharList(char[] a)
         {
             _charList = a;
         }
 
-        public char GetCharList()
+        public char[] GetCharList()
         {
             return _charList;
         }
@@ -40,9 +51,9 @@ namespace Scrabble
 
 
 
-            static void Main()
-            {
-                //nothing here yet
-            }
+            //static void Main()
+            //{
+            //    //nothing here yet
+            //}
         }
     }

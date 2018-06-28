@@ -8555,11 +8555,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Projects/ScrabbleAgain/ScrabbleAgain.Test/ScrabbleAgain.Test.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain.Test/ScrabbleAgain.Test.csproj",
       "projectName": "ScrabbleAgain.Test",
-      "projectPath": "/Users/Guest/Projects/ScrabbleAgain/ScrabbleAgain.Test/ScrabbleAgain.Test.csproj",
+      "projectPath": "/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain.Test/ScrabbleAgain.Test.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Projects/ScrabbleAgain/ScrabbleAgain.Test/obj",
+      "outputPath": "/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain.Test/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Guest/.config/NuGet/NuGet.Config"
@@ -8573,8 +8573,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "/Users/Guest/Projects/ScrabbleAgain/ScrabbleAgain/ScrabbleAgain.csproj": {
-              "projectPath": "/Users/Guest/Projects/ScrabbleAgain/ScrabbleAgain/ScrabbleAgain.csproj"
+            "/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/ScrabbleAgain.csproj": {
+              "projectPath": "/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/ScrabbleAgain.csproj"
             }
           }
         }

@@ -14501,11 +14501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Projects/ScrabbleAgain/ScrabbleAgain/ScrabbleAgain.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/ScrabbleAgain.csproj",
       "projectName": "ScrabbleAgain",
-      "projectPath": "/Users/Guest/Projects/ScrabbleAgain/ScrabbleAgain/ScrabbleAgain.csproj",
+      "projectPath": "/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/ScrabbleAgain.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Projects/ScrabbleAgain/ScrabbleAgain/obj",
+      "outputPath": "/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Guest/.config/NuGet/NuGet.Config"

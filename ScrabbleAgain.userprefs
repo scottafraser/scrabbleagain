@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{D01D8DCE-BAAF-4085-81D6-ECED624D0E3E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ScrabbleAgain/Models/Scrabble.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScrabbleAgain.Test/UnitTest1.cs">
     <Files>
-      <File FileName="ScrabbleAgain/Models/Scrabble.cs" Line="35" Column="4" />
-      <File FileName="ScrabbleAgain.Test/Model.Tests/ScrabbleTest.cs" Line="14" Column="16" NotebookId="1" />
+      <File FileName="ScrabbleAgain/Models/Scrabble.cs" Line="42" Column="1" />
+      <File FileName="ScrabbleAgain.Test/UnitTest1.cs" Line="1" Column="3" />
+      <File FileName="ScrabbleAgain.Test/Model.Tests/ScrabbleTest.cs" Line="3" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
