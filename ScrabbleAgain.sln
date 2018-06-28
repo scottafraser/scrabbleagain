@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrabbleAgain", "ScrabbleAgain\ScrabbleAgain.csproj", "{D01D8DCE-BAAF-4085-81D6-ECED624D0E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrabbleAgain.Test", "ScrabbleAgain.Test\ScrabbleAgain.Test.csproj", "{B8973CE9-AF7B-45E8-9360-58CE0E137E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01D8DCE-BAAF-4085-81D6-ECED624D0E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01D8DCE-BAAF-4085-81D6-ECED624D0E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01D8DCE-BAAF-4085-81D6-ECED624D0E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01D8DCE-BAAF-4085-81D6-ECED624D0E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8973CE9-AF7B-45E8-9360-58CE0E137E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8973CE9-AF7B-45E8-9360-58CE0E137E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8973CE9-AF7B-45E8-9360-58CE0E137E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8973CE9-AF7B-45E8-9360-58CE0E137E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
