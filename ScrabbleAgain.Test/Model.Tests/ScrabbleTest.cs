@@ -32,5 +32,25 @@ namespace ScrabbleAgain.Test
             testPoints.SetIntList(intPoint);
             Assert.AreEqual(intPoint, testPoints.GetIntList());
         }
+
+        [TestMethod]
+        public void GetSetUserWords_GetsSetsUserWords_UserWord()
+        {
+            Points testPoints = new Points();
+            string word = "word";
+            char[] testarray = testPoints.WordtoChar(word);
+            CollectionAssert.AreEqual( testarray, testPoints.WordtoChar(word));
+        }
+
+        [TestMethod]
+        public void GetSetUserWords_GetsSetsUserWords_findValue()
+        {
+            Points testPoints = new Points();
+            char[] word = { 'w', 'o', 'r', 'd' };
+            int testvalue= testPoints.FindValue(word);
+            Assert.AreEqual(testvalue, testPoints.FindValue(word));
+        }
+
+
     }
 }

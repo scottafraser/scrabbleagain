@@ -12,3 +12,4 @@
 /Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain.Test/bin/Debug/netcoreapp1.1/ScrabbleAgain.pdb
 /Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain.Test/obj/Debug/netcoreapp1.1/ScrabbleAgain.Test.dll
 /Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain.Test/obj/Debug/netcoreapp1.1/ScrabbleAgain.Test.pdb
+/Users/Guest/Desktop/ScrabbleAgain/ScrabbleAgain.Test/obj/Debug/netcoreapp1.1/ScrabbleAgain.Test.csprojResolveAssemblyReference.cache

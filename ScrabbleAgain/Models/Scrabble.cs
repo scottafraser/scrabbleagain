@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
-namespace Scrabble
+
+            namespace Scrabble
 {
 
     public class Points
@@ -41,19 +43,42 @@ namespace Scrabble
         }
 
 
-        public static Dictionary<char, int> charPoints = new Dictionary<char, int>() { { 'a', 1 }, { 'e', 1 }, { 'i', 1 }, { 'o', 1 }, { 'u', 1 }, { 'l', 1 }, { 'n', 1 }, { 'r', 1 }, { 's', 1 }, { 't', 1 }, { 'd', 2 }, { 'g', 2 }, { 'b', 3 }, { 'c', 3 }, { 'm', 3 }, { 'p', 3 }, { 'f', 4 }, { 'h', 4 }, { 'v', 4 }, { 'w', 4 }, { 'y', 4 }, { 'k', 5 }, { 'j', 8 }, { 'x', 8 }, { 'q', 10 }, { 'z', 10 } };
-
-        //public void UserWord();
-            //{
-                
-            //}
-
+        public char[] WordtoChar(string word)
+        {
+            char[] newArray = word.ToCharArray();
+            return newArray;
+        }
 
 
+        public static Dictionary<char, int> charPoints = new Dictionary<char, int>() 
+        { { 'a', 1 }, { 'e', 1 },
+        { 'i', 1 }, { 'o', 1 }, 
+        { 'u', 1 }, { 'l', 1 }, 
+        { 'n', 1 }, { 'r', 1 }, 
+        { 's', 1 }, { 't', 1 }, 
+        { 'd', 2 }, { 'g', 2 }, 
+        { 'b', 3 }, { 'c', 3 }, 
+        { 'm', 3 }, { 'p', 3 }, 
+        { 'f', 4 }, { 'h', 4 }, 
+        { 'v', 4 }, { 'w', 4 }, 
+        { 'y', 4 }, { 'k', 5 }, 
+        { 'j', 8 }, { 'x', 8 }, 
+        { 'q', 10 }, { 'z', 10 } };
+    
+      
+        public int FindValue(char[] letter)
+        {
+            foreach (KeyValuePair<char, int> pair in charPoints)
+            {
+                if (pair.Key == letter[0])
+                    SetIntList(pair.Value);
+           
+            }
+            return GetIntList();
+        }
 
-            //static void Main()
-            //{
-            //    //nothing here yet
-            //}
+
+       
+       
         }
     }
